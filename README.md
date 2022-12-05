@@ -7,6 +7,10 @@ My first repository
 
    ### This is my list! 👌:
    # ↗️:
+      |   Characters    |    Role     | Cast name |
+   | ----------- | ----------- | -----------|
+   | Marty Mcfly | Assistant of Dr.Emmett brown | Michael jfox |
+   | Dr. Emmett Brown|  Scientist            | Christopher Lloyd |
    
    
    
